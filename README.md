@@ -5,7 +5,7 @@
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/michaeltucker24/osticket-prereqs)
 - <b>Microsoft Azure</b>
-  - [Creating Azure VMs](https://github.com/michaeltucker24/Lab-1-Creating-VMs-in-Azure)
+  - [Creating Azure VMs](https://github.com/michaeltucker24/Creating-VMs-in-Azure)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/michaeltucker24/azure-network-protocols)
 - <b>Linux System Management</b>
   - [Linux File Management practice](https://github.com/michaeltucker24/File-Management-and-Permissions-Script)
