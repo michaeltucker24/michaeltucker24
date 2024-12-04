@@ -5,12 +5,14 @@
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/michaeltucker24/osticket-prereqs)
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/michaeltucker24/configure-ad)
+  - [Creating Azure VMs](https://github.com/michaeltucker24/Lab-1-Creating-VMs-in-Azure)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/michaeltucker24/azure-network-protocols)
 - <b>Linux System Management</b>
   - [Linux File Management practice](https://github.com/michaeltucker24/File-Management-and-Permissions-Script)
-  
-  
+- <b>DNS Practice<b>
+  - [Building intution with DNS](https://github.com/michaeltucker24/Lab-6-Building-intuition-for-DNS)
+- <b>Networking labs<b>
+  - [Network File Share and Permissions](https://github.com/Mamutt7/Lab-7-Network-File-Shares-and-Permissions)  
 
 - <h2>🤳Connect with me:</h2>
 
