@@ -11,7 +11,7 @@
   - [Linux File Management practice](https://github.com/michaeltucker24/File-Management-and-Permissions-Script)
   - [Linux System Monitoring](https://github.com/Mamutt7/Linux-System-Monitoring-Script/blob/main/README.md)
 - <b>DNS Practice<b>
-  - [Building intution with DNS](https://github.com/michaeltucker24/Lab-6-Building-intuition-for-DNS)
+  - [Building intution with DNS](https://github.com/michaeltucker24/Building-Intuition-for-DNS)
 
 
 - <h2>🤳Connect with me:</h2>
