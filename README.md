@@ -12,8 +12,7 @@
   - [Linux System Monitoring](https://github.com/Mamutt7/Linux-System-Monitoring-Script/blob/main/README.md)
 - <b>DNS Practice<b>
   - [Building intution with DNS](https://github.com/michaeltucker24/Lab-6-Building-intuition-for-DNS)
-- <b>Networking labs<b>
-  - [Network File Share and Permissions](https://github.com/Mamutt7/Lab-7-Network-File-Shares-and-Permissions)  
+
 
 - <h2>🤳Connect with me:</h2>
 
