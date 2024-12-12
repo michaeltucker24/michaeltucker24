@@ -9,7 +9,7 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/michaeltucker24/azure-network-protocols)
 - <b>Linux System Management</b>
   - [Linux File Management practice](https://github.com/michaeltucker24/File-Management-and-Permissions-Script)
-  - [Linux System Monitoring](https://github.com/Mamutt7/Linux-System-Monitoring-Script/blob/main/README.md)
+  - [Linux System Monitoring](https://github.com/michaeltucker24/Linux-System-Monitoring-Script/blob/main/README.md)
 - <b>DNS Practice<b>
   - [Building intution with DNS](https://github.com/michaeltucker24/Building-Intuition-for-DNS)
 
