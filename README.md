@@ -1,5 +1,11 @@
 <h1>Hi, I'm Michael, an <a href="https://linkedin.com/in/Josh">IT Professional</a>☺</h1>
 
+I am passionate about securing systems and developing/maintaining cloud environments. Outside of work, here’s what I love:
+
+🎮 Gaming: From FPS to RPGs, I enjoy diving into virtual worlds.
+
+🏋️‍♂️ Lifting Weights: Pushing limits in the gym is my therapy.
+
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
