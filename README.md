@@ -37,3 +37,23 @@ Outside of work, here’s what I love:
   - [Linux System Monitoring](https://github.com/michaeltucker24/Linux-System-Monitoring-Script/blob/main/README.md)
 - <b>DNS Practice<b>
   - [Building intution with DNS](https://github.com/michaeltucker24/Building-Intuition-for-DNS)
+ 
+
+
+
+<h2>Career Goal</h2>
+I am seeking an Associate / Junior Linux Support Engineer role where I can:
+
+<b></b>
+
+<b>Support Ubuntu and open-source systems</b>
+
+<b>Troubleshoot real customer and infrastructure issues</b>
+
+<b>Learn from experienced Linux engineers</b>
+
+<b>Grow long-term within an open-source-driven organization</b>
+
+
+
+
