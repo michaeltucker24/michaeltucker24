@@ -1,12 +1,31 @@
-<h1>Hi, I'm Michael, an <a href="https://linkedin.com/in/Josh">IT Professional</a>☺</h1>
+<h1>Michael Tucker — Aspiring Linux Support Engineer</h1>
+<b></b>
 
-I am passionate about securing systems and developing/maintaining cloud environments. Outside of work, here’s what I love:
+<b>Aspiring Linux support engineer with troubleshooting skills, hands-on Ubuntu/Linux experience, cloud exposure, and a passion for open source technologies. I enjoy diagnosing system issues, learning how Linux works under the hood, and supporting reliable infrastructure at scale.</b>
+
+I am actively developing my Linux administration and support skills through hands-on labs and real-world simulations, with a strong focus on:
+
+<b>-Ubuntu server administration</b>
+
+<b>-Linux file systems, permissions, and ownership</b>
+
+<b>Bash scripting for automation and troubleshooting</b>
+
+<b>-Log analysis and root-cause investigation</b>
+
+<b>-Networking fundamentals (TCP/IP, DNS, DHCP)</b>
+
+<b>-Virtualized and cloud-based Linux environments</b>
+
+
+<b></b>
+Outside of work, here’s what I love:
 
 🎮 Gaming: From FPS to RPGs, I enjoy diving into virtual worlds.
 
 🏋️‍♂️ Lifting Weights: Pushing limits in the gym is my therapy.
 
-<h2>👨‍💻 Information Technology Projects:</h2>
+<h2>Hands-On Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/michaeltucker24/osticket-prereqs)
