@@ -42,7 +42,7 @@ Outside of work, here’s what I love:
 
 
 <h2>Career Goal</h2>
-I am seeking an Associate / Junior Linux Support Engineer role where I can:
+I am seeking an Associate / Junior Linux Support Engineer remote role where I can:
 
 <b></b>
 
@@ -55,5 +55,15 @@ I am seeking an Associate / Junior Linux Support Engineer role where I can:
 <b>Grow long-term within an open-source-driven organization</b>
 
 
+<h2>Contact</h2>
 
+
+<b></b>
+
+GitHub: https://github.com/michaeltucker24
+
+
+<b></b>
+
+Email: Mtucker9923@gmail.com
 
