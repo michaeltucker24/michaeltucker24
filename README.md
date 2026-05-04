@@ -14,11 +14,17 @@ My current focus areas include:
 
 ## Featured Linux Support Labs
 
-### Linux Support Ticket Simulation Lab
-Simulated Linux support cases covering disk alerts, service failures, login issues, root-cause analysis, resolution steps, and verification.
+### Ubuntu Troubleshooting Casebook
+Structured Ubuntu/Linux troubleshooting cases covering SSH failures, disk usage, failed services, DNS, firewall issues, permissions, cron jobs, package updates, and root-cause analysis.
+
+### Ubuntu Health Check Script
+Bash-based support triage script for checking system uptime, disk usage, memory usage, failed services, listening ports, firewall status, recent errors, and package updates.
+
+### Ubuntu systemd Service Recovery Lab
+Service recovery lab focused on failed Ubuntu services using `systemctl`, `journalctl`, configuration validation, port checks, and verification.
 
 ### Linux Network Troubleshooting Lab
-Troubleshooting lab focused on SSH connectivity, blocked service ports, firewall/security rules, and packet analysis in a cloud-based Ubuntu environment.
+Troubleshooting lab focused on SSH connectivity, blocked service ports, firewall/security rules, DNS, routing, and packet analysis in a cloud-based Ubuntu environment.
 
 ### Linux Permissions Troubleshooting Lab
 Ubuntu permissions lab covering file ownership, group membership, permission bits, ACL checks, and access verification.
