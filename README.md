@@ -1,69 +1,36 @@
-<h1>Michael Tucker — Aspiring Linux Support Engineer</h1>
-<b></b>
+# Michael Tucker — Linux Support Engineer Portfolio
 
-<b>Aspiring Linux support engineer with troubleshooting skills, hands-on Ubuntu/Linux experience, cloud exposure, and a passion for open source technologies. I enjoy diagnosing system issues, learning how Linux works under the hood, and supporting reliable infrastructure at scale.</b>
+I am an IT professional focused on Ubuntu/Linux support engineering, system troubleshooting, cloud-based Linux environments, and technical documentation.
 
-I am actively developing my Linux administration and support skills through hands-on labs and real-world simulations, with a strong focus on:
+My current focus areas include:
 
-<b>-Ubuntu server administration</b>
+- Ubuntu server administration
+- Linux command line, filesystems, permissions, and ownership
+- Bash scripting for automation and troubleshooting
+- Log analysis and root-cause investigation
+- Networking fundamentals: TCP/IP, DNS, DHCP, SSH, firewall rules
+- Virtualized and cloud-based Linux environments
+- Support ticket documentation and customer-facing issue resolution
 
-<b>-Linux file systems, permissions, and ownership</b>
+## Featured Linux Support Labs
 
-<b>Bash scripting for automation and troubleshooting</b>
+### Linux Support Ticket Simulation Lab
+Simulated Linux support cases covering disk alerts, service failures, login issues, root-cause analysis, resolution steps, and verification.
 
-<b>-Log analysis and root-cause investigation</b>
+### Linux Network Troubleshooting Lab
+Troubleshooting lab focused on SSH connectivity, blocked service ports, firewall/security rules, and packet analysis in a cloud-based Ubuntu environment.
 
-<b>-Networking fundamentals (TCP/IP, DNS, DHCP)</b>
+### Linux Permissions Troubleshooting Lab
+Ubuntu permissions lab covering file ownership, group membership, permission bits, ACL checks, and access verification.
 
-<b>-Virtualized and cloud-based Linux environments</b>
+### osTicket Service Availability Lab
+Support-style case study involving a cloud-hosted osTicket web interface outage, service checks, log review, firewall investigation, and verification.
 
+## Career Goal
 
-<b></b>
-Outside of work, here’s what I love:
+I am seeking an Associate or Junior Linux Support Engineer role where I can support Ubuntu and open-source systems, troubleshoot customer issues, document technical resolutions, and grow within a Linux-focused engineering environment.
 
-🎮 Gaming: From FPS to RPGs, I enjoy diving into virtual worlds.
+## Contact
 
-🏋️‍♂️ Lifting Weights: Pushing limits in the gym is my therapy.
-
-<h2>Hands-On Projects:</h2>
-
-- <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/michaeltucker24/osticket-prereqs)
-- <b>Microsoft Azure</b>
-  - [Creating Azure VMs](https://github.com/michaeltucker24/Creating-VMs-in-Azure)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/michaeltucker24/azure-network-protocols)
-- <b>Linux System Management</b>
-  - [Linux File Management practice](https://github.com/michaeltucker24/File-Management-and-Permissions-Script)
-  - [Linux System Monitoring](https://github.com/michaeltucker24/Linux-System-Monitoring-Script/blob/main/README.md)
-- <b>DNS Practice<b>
-  - [Building intution with DNS](https://github.com/michaeltucker24/Building-Intuition-for-DNS)
- 
-
-
-
-<h2>Career Goal</h2>
-I am seeking an Associate / Junior Linux Support Engineer remote role where I can:
-
-<b></b>
-
-<b>Support Ubuntu and open-source systems</b>
-
-<b>Troubleshoot real customer and infrastructure issues</b>
-
-<b>Learn from experienced Linux engineers</b>
-
-<b>Grow long-term within an open-source-driven organization</b>
-
-
-<h2>Contact</h2>
-
-
-<b></b>
-
-GitHub: https://github.com/michaeltucker24
-
-
-<b></b>
-
+GitHub: github.com/michaeltucker24  
 Email: Mtucker9923@gmail.com
-
