@@ -1,6 +1,6 @@
 # Michael Tucker — Junior DevOps Portfolio
 
-I am an IT professional transitioning into Junior DevOps and SRE Support roles, with a strong foundation in Linux administration, cloud infrastructure, Kubernetes, CI/CD, troubleshooting, and technical documentation.
+I am an IT professional transitioning into Junior DevOps and SRE Support roles, with a foundation in Linux administration, cloud infrastructure, Kubernetes, CI/CD, troubleshooting, and technical documentation.
 
 My current focus is building hands-on DevOps projects that demonstrate practical skills with AWS, Linux, Git, GitHub Actions, Kubernetes, Terraform, and infrastructure troubleshooting.
 
