@@ -26,7 +26,7 @@ My current focus is building hands-on DevOps projects that demonstrate practical
 
 Hands-on AWS/Linux lab focused on provisioning an Ubuntu EC2 server, configuring SSH access, managing Linux users and sudo permissions, validating security group access, and documenting server setup.
 
-**Skills demonstrated:** AWS EC2, Ubuntu Linux, SSH, security groups, Linux users, sudo, access validation, technical documentation
+Skills demonstrated: AWS EC2, Ubuntu Linux, SSH, security groups, Linux users, sudo, access validation, technical documentation
 
 ---
 
@@ -34,23 +34,31 @@ Hands-on AWS/Linux lab focused on provisioning an Ubuntu EC2 server, configuring
 
 Kubernetes troubleshooting lab focused on identifying and correcting common manifest issues such as selector mismatches, service routing problems, invalid image references, YAML errors, and configuration mistakes.
 
-**Skills demonstrated:** Kubernetes, YAML, kubectl, deployments, services, troubleshooting, root-cause analysis, GitHub Actions validation
+Skills demonstrated: Kubernetes, YAML, kubectl, deployments, services, troubleshooting, root-cause analysis, GitHub Actions validation
 
 ---
 
-### 3. GitHub Actions CI/CD Pipeline to Kubernetes
+### 3. Kubernetes Observability Lab — Grafana and Prometheus
+
+Kubernetes observability lab focused on deploying Grafana and Prometheus, inspecting cluster and workload metrics, using dashboards to review service health, generating test traffic, and documenting a support-style monitoring investigation.
+
+Skills demonstrated: Kubernetes, Grafana, Prometheus, Helm, kubectl, metrics, dashboards, observability, PromQL basics, support-style investigation
+
+---
+
+### 4. GitHub Actions CI/CD Pipeline to Kubernetes
 
 CI/CD project focused on using GitHub Actions to build a container image, push it to a container registry, and deploy the updated application to a Kubernetes environment.
 
-**Skills demonstrated:** GitHub Actions, CI/CD, Docker, container registry, Kubernetes deployment, rollout verification, secrets management
+Skills demonstrated: GitHub Actions, CI/CD, Docker, container registry, Kubernetes deployment, rollout verification, secrets management
 
 ---
 
-### 4. Terraform AWS Infrastructure Lab
+### 5. Terraform AWS Infrastructure Lab
 
 Infrastructure as Code project focused on provisioning AWS resources with Terraform, including EC2 infrastructure, networking components, security groups, variables, outputs, and cleanup using Terraform destroy.
 
-**Skills demonstrated:** Terraform, AWS, EC2, VPC basics, security groups, infrastructure as code, variables, outputs, provisioning workflow
+Skills demonstrated: Terraform, AWS, EC2, VPC basics, security groups, infrastructure as code, variables, outputs, provisioning workflow
 
 ---
 
